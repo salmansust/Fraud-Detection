@@ -6,3 +6,7 @@ Throughout the financial sector, machine learning algorithms are being developed
     Isolation Forest Algorithm
 
 Furthermore, using metrics suchs as precision, recall, and F1-scores, we will investigate why the classification accuracy for these algorithms can be misleading
+
+Download Dataset from the link below:
+
+https://www.kaggle.com/mlg-ulb/creditcardfraud/download
